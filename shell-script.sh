@@ -1,2 +1,2 @@
 #!/bin/bash
-alias >> out
+alias > out
