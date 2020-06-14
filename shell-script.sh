@@ -1,2 +1,2 @@
 #!/bin/bash
-alias > out
+grep $"alias" $".bashrc" > result
